@@ -87,7 +87,6 @@
 		6E8B625C22092937001EC31C = {
 			isa = PBXGroup;
 			children = (
-				6EB0CF83220A42ED0037F436 /* Services */,
 				6E8B626722092937001EC31C /* Hats! */,
 				6E8B627C22092938001EC31C /* Hats!Tests */,
 				6E8B628722092938001EC31C /* Hats!UITests */,
@@ -109,6 +108,7 @@
 			isa = PBXGroup;
 			children = (
 				6E8B626822092937001EC31C /* AppDelegate.swift */,
+				6EB0CF83220A42ED0037F436 /* Services */,
 				6EB0CF82220A42C90037F436 /* View */,
 				6EB0CF81220A42A60037F436 /* Controller */,
 				6EB0CF80220A427D0037F436 /* Model */,
